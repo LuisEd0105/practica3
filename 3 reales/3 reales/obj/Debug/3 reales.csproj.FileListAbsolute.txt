@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\3 reales\3 reales\bin\Debug\3 reales.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\3 reales\3 reales\bin\Debug\3 reales.exe
+c:\users\hp\documents\visual studio 2012\Projects\3 reales\3 reales\bin\Debug\3 reales.pdb
+c:\users\hp\documents\visual studio 2012\Projects\3 reales\3 reales\obj\Debug\3 reales.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\3 reales\3 reales\obj\Debug\3 reales.exe
+c:\users\hp\documents\visual studio 2012\Projects\3 reales\3 reales\obj\Debug\3 reales.pdb

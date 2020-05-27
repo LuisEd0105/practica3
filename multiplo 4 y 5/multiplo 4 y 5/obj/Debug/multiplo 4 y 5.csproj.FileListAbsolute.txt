@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\multiplo 4 y 5\multiplo 4 y 5\bin\Debug\multiplo 4 y 5.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo 4 y 5\multiplo 4 y 5\bin\Debug\multiplo 4 y 5.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo 4 y 5\multiplo 4 y 5\bin\Debug\multiplo 4 y 5.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo 4 y 5\multiplo 4 y 5\obj\Debug\multiplo 4 y 5.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo 4 y 5\multiplo 4 y 5\obj\Debug\multiplo 4 y 5.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo 4 y 5\multiplo 4 y 5\obj\Debug\multiplo 4 y 5.pdb

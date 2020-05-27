@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\entero division\entero division\bin\Debug\entero division.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\entero division\entero division\bin\Debug\entero division.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\entero division\entero division\bin\Debug\entero division.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\entero division\entero division\obj\Debug\entero division.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\entero division\entero division\obj\Debug\entero division.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\entero division\entero division\obj\Debug\entero division.pdb

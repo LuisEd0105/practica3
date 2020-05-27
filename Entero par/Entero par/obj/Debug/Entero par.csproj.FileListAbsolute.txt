@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\Entero par\Entero par\bin\Debug\Entero par.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Entero par\Entero par\bin\Debug\Entero par.exe
+c:\users\hp\documents\visual studio 2012\Projects\Entero par\Entero par\bin\Debug\Entero par.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Entero par\Entero par\obj\Debug\Entero par.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Entero par\Entero par\obj\Debug\Entero par.exe
+c:\users\hp\documents\visual studio 2012\Projects\Entero par\Entero par\obj\Debug\Entero par.pdb

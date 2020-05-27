@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\multiplo de 10\multiplo de 10\bin\Debug\multiplo de 10.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo de 10\multiplo de 10\bin\Debug\multiplo de 10.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo de 10\multiplo de 10\bin\Debug\multiplo de 10.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo de 10\multiplo de 10\obj\Debug\multiplo de 10.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo de 10\multiplo de 10\obj\Debug\multiplo de 10.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplo de 10\multiplo de 10\obj\Debug\multiplo de 10.pdb

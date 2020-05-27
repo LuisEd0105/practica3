@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\Entero mayor\Entero mayor\bin\Debug\Entero mayor.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Entero mayor\Entero mayor\bin\Debug\Entero mayor.exe
+c:\users\hp\documents\visual studio 2012\Projects\Entero mayor\Entero mayor\bin\Debug\Entero mayor.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Entero mayor\Entero mayor\obj\Debug\Entero mayor.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Entero mayor\Entero mayor\obj\Debug\Entero mayor.exe
+c:\users\hp\documents\visual studio 2012\Projects\Entero mayor\Entero mayor\obj\Debug\Entero mayor.pdb

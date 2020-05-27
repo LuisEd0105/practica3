@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\enteros multiplo\enteros multiplo\bin\Debug\enteros multiplo.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\enteros multiplo\enteros multiplo\bin\Debug\enteros multiplo.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\enteros multiplo\enteros multiplo\bin\Debug\enteros multiplo.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\enteros multiplo\enteros multiplo\obj\Debug\enteros multiplo.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\enteros multiplo\enteros multiplo\obj\Debug\enteros multiplo.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\enteros multiplo\enteros multiplo\obj\Debug\enteros multiplo.pdb

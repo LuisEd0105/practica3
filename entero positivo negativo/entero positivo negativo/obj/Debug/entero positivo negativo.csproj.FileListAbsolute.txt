@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\entero positivo negativo\entero positivo negativo\bin\Debug\entero positivo negativo.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\entero positivo negativo\entero positivo negativo\bin\Debug\entero positivo negativo.exe
+c:\users\hp\documents\visual studio 2012\Projects\entero positivo negativo\entero positivo negativo\bin\Debug\entero positivo negativo.pdb
+c:\users\hp\documents\visual studio 2012\Projects\entero positivo negativo\entero positivo negativo\obj\Debug\entero positivo negativo.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\entero positivo negativo\entero positivo negativo\obj\Debug\entero positivo negativo.exe
+c:\users\hp\documents\visual studio 2012\Projects\entero positivo negativo\entero positivo negativo\obj\Debug\entero positivo negativo.pdb

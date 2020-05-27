@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\multiplicacion 0\multiplicacion 0\bin\Debug\multiplicacion 0.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplicacion 0\multiplicacion 0\bin\Debug\multiplicacion 0.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplicacion 0\multiplicacion 0\bin\Debug\multiplicacion 0.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplicacion 0\multiplicacion 0\obj\Debug\multiplicacion 0.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplicacion 0\multiplicacion 0\obj\Debug\multiplicacion 0.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\multiplicacion 0\multiplicacion 0\obj\Debug\multiplicacion 0.pdb
